@@ -10,6 +10,13 @@
       "name": "Water Tank",
       "skipFiles": ["<node_internals>/**"],
       "program": "${workspaceFolder}/WaterTank.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Max Profit",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}/MaxProfit.js"
     }
   ]
 }
